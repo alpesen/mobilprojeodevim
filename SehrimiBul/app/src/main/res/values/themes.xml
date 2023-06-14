@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SehrimiBul" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#0984e3</item>
+        <item name="colorPrimaryVariant">#0984e3</item>
+        <item name="colorSecondary">#0984e3</item>
+    </style>
+
+    <style name="Theme.SehrimiBul" parent="Base.Theme.SehrimiBul" />
+</resources>
